@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "611319924916",
+    "firebase_url": "https://login-bcd2b.firebaseio.com",
+    "project_id": "login-bcd2b",
+    "storage_bucket": "login-bcd2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611319924916:android:134f5895b41c303370efe1",
+        "android_client_info": {
+          "package_name": "com.huajlliri.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611319924916-opim0rboc1qmcg50hqtkpshm92ud0m43.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huajlliri.myapplication",
+            "certificate_hash": "8e3932f1646f762e1c9d30bec1e9cc342d7439c7"
+          }
+        },
+        {
+          "client_id": "611319924916-704aqqnblc8r08tghicn6jpmov8r98hl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC4bnUYSpU8etwxzcef2llo1yf_hS2vPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611319924916-704aqqnblc8r08tghicn6jpmov8r98hl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
